@@ -2,7 +2,7 @@
 
 <img src="./banner.svg?v=2" alt="Saumya Kumar - Aspiring Cloud & DevOps Engineer" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Provisioning+infrastructure+as+code+%E2%98%81%EF%B8%8F;Automating+deployments+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Practicing+GitOps+with+ArgoCD+%F0%9F%94%84;Building+on+AWS+with+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Provisioning+infrastructure+as+code+%E2%98%81%EF%B8%8F;Automating+deployments+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Practicing+GitOps+with+ArgoCD+%F0%9F%94%84;Building+on+Azure+%26+AWS+with+Terraform)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyakumar7037)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyakumar7037@gmail.com)
@@ -15,8 +15,7 @@
 
 Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and deploying cloud infrastructure using **Azure, AWS, Terraform, Docker, and Linux**. Skilled in Infrastructure as Code, containerization, cloud monitoring, CI/CD fundamentals, and cloud networking. Passionate about building scalable, secure, and automated cloud infrastructure while continuously improving system reliability and operational efficiency.
 
-
-- 🔭 Currently building: hands-on projects across **Azue, AWS, Terraform, Docker, and Kubernetes**
+- 🔭 Currently building: hands-on projects across **Azure, AWS, Terraform, Docker, and Kubernetes**
 - 🌱 Currently deepening: GitOps with ArgoCD, advanced Kubernetes, CI/CD pipeline design
 - 🎓 Certified: **Microsoft Azure Fundamentals (AZ-900)**
 - 📫 Reach me: **saumyakumar7037@gmail.com**
@@ -26,8 +25,8 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 ### 🛠️ Skills
 
 **Cloud Platforms**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **Infrastructure & DevOps**
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -64,54 +63,38 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 <tr>
 <td width="50%" valign="top">
 
-#### 💰 Expense Tracker — End-to-End DevOps Pipeline
+#### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
 
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saumya7037&repo=Expense-tracker-project&theme=default&hide_border=true)
+A full-stack expense tracker built to demonstrate a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
 
-Demonstrates a complete, production-style DevOps workflow — containerization, automated CI, GitOps CD, and Kubernetes orchestration.
+**What it does:** Full-stack app with authentication, expense CRUD, and a dashboard with charts, backed by PostgreSQL.
 
-<details>
-<summary>🔍 See implementation details</summary>
-
-<br>
-
+**What I built around it:**
 - Containerized the app + database with **Docker**
 - Automated CI with **GitHub Actions** — builds, versions, and pushes images to Docker Hub on every commit
 - Implemented GitOps CD with **ArgoCD** — auto-syncs Kubernetes manifests from GitHub, with self-healing and drift detection
 - Orchestrated with **Kubernetes**: Deployments, Services, ConfigMaps, Secrets, PVCs, Ingress
 - Validated the full pipeline end-to-end on **Minikube**
 
-</details>
-
-`Docker` `Kubernetes` `ArgoCD` `GitHub Actions` `GitOps`
-
-**[→ View Repository](https://github.com/Saumya7037/Expense-tracker-project)**
+`Docker` `Kubernetes` `ArgoCD` `GitHub Actions` `Node.js` `PostgreSQL`
 
 </td>
 <td width="50%" valign="top">
 
-#### ☁️ Multi-Environment AWS Infrastructure with Terraform
+#### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
-![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Saumya7037&repo=Terraform-Multi-Environment-AWS-Infrastructure&theme=default&hide_border=true)
+Reusable, modular Terraform configuration that provisions AWS infrastructure as code across **Development, Staging, and Production** environments.
 
-Reusable, modular Terraform configuration provisioning AWS infrastructure as code across Dev, Staging, and Production.
+**What it does:** Automates AWS resource provisioning so environments stay consistent and don't drift from each other.
 
-<details>
-<summary>🔍 See implementation details</summary>
-
-<br>
-
+**What I built around it:**
 - Wrote **reusable, modular Terraform modules** shared across Dev/Staging/Prod
 - Automated provisioning of **EC2 instances, S3 buckets, and DynamoDB** tables
 - Configured **environment-specific deployments** using Terraform variables
 - Implemented **Security Groups and Key Pairs** for secure access control
 - Structured configs into modular components for scalable, maintainable infra
 
-</details>
-
-`Terraform` `AWS EC2` `AWS S3` `DynamoDB` `VPC` `Security Groups`
-
-**[→ View Repository](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)**
+`Terraform` `AWS EC2` `AWS S3` `AWS DynamoDB` `VPC` `Security Groups`
 
 </td>
 </tr>
