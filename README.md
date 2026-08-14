@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:326CE5&height=220&section=header&text=Saumya%20Kumar&fontSize=45&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=65&animation=fadeIn&fontAlignY=35)
+<img src="./banner.svg" alt="Saumya Kumar - Cloud & DevOps Engineer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Automating+cloud+infrastructure+%E2%98%81%EF%B8%8F;Deploying+with+Docker+%2B+Kubernetes+%E2%9A%99%EF%B8%8F;GitOps+with+ArgoCD+%F0%9F%94%84;Provisioning+AWS+with+Terraform)](https://git.io/typing-svg)
 
@@ -34,15 +34,27 @@ I'm an aspiring **Cloud & DevOps Engineer**, currently working as a Technical Su
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F44336?style=flat-square&logo=argo&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-40AEF0?style=flat-square&logo=githubactions&logoColor=white)
+
+**Networking**
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Load Balancers](https://img.shields.io/badge/Load_Balancers-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-4285F4?style=flat-square&logo=cisco&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-4285F4?style=flat-square&logo=letsencrypt&logoColor=white)
 
 **Monitoring & Observability**
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
-**Languages & Tools**
+**Languages, OS & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -96,6 +108,6 @@ Reusable, modular Terraform configuration that provisions AWS infrastructure as 
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:2496ED&height=100&section=footer)
+<img src="./banner.svg" alt="footer" width="100%" style="transform: scaleY(-1);"/>
 
 </div>
