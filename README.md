@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Saumya Kumar - Aspiring Cloud & DevOps Engineer" width="100%"/>
+<img src="./banner.svg?v=2" alt="Saumya Kumar - Aspiring Cloud & DevOps Engineer" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Provisioning+infrastructure+as+code+%E2%98%81%EF%B8%8F;Automating+deployments+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Practicing+GitOps+with+ArgoCD+%F0%9F%94%84;Building+on+Azure+%26+AWS+with+Terraform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Provisioning+infrastructure+as+code+%E2%98%81%EF%B8%8F;Automating+deployments+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Practicing+GitOps+with+ArgoCD+%F0%9F%94%84;Building+on+AWS+with+Terraform)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyakumar7037)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyakumar7037@gmail.com)
@@ -15,7 +15,8 @@
 
 Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and deploying cloud infrastructure using **Azure, AWS, Terraform, Docker, and Linux**. Skilled in Infrastructure as Code, containerization, cloud monitoring, CI/CD fundamentals, and cloud networking. Passionate about building scalable, secure, and automated cloud infrastructure while continuously improving system reliability and operational efficiency.
 
-- 🔭 Currently building: hands-on projects across **Azure, AWS, Terraform, Docker, and Kubernetes**
+
+- 🔭 Currently building: hands-on projects across **Azue, AWS, Terraform, Docker, and Kubernetes**
 - 🌱 Currently deepening: GitOps with ArgoCD, advanced Kubernetes, CI/CD pipeline design
 - 🎓 Certified: **Microsoft Azure Fundamentals (AZ-900)**
 - 📫 Reach me: **saumyakumar7037@gmail.com**
@@ -25,8 +26,8 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 ### 🛠️ Skills
 
 **Cloud Platforms**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Infrastructure & DevOps**
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -120,6 +121,6 @@ Reusable, modular Terraform configuration provisioning AWS infrastructure as cod
 
 <div align="center">
 
-<img src="./banner.svg" alt="footer" width="100%"/>
+<img src="./banner.svg?v=2" alt="footer" width="100%"/>
 
 </div>
