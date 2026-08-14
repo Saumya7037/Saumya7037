@@ -13,7 +13,7 @@
 
 ### 👋 About Me
 
-I'm an aspiring **Cloud & DevOps Engineer**, currently working as a Technical Support Engineer at **FarEye Technologies**, where I troubleshoot production API integrations, run root-cause analysis on live incidents, and work directly inside Linux-based, REST API-driven enterprise systems. Outside of that, I build end-to-end DevOps pipelines and cloud infrastructure projects to sharpen the skills I use to keep production systems reliable.
+Aspiring **Cloud & DevOps Engineer with a strong foundation in AWS, Terraform, Docker, Kubernetes, Linux, Git, and CI/CD**. Skilled in building automated infrastructure using Infrastructure as Code, containerizing applications, and implementing CI/CD and GitOps workflows using GitHub Actions and ArgoCD. Familiar with cloud networking, monitoring, deployment automation, and production troubleshooting. Currently working as a Technical Support Engineer, gaining exposure to production systems, incident resolution, API troubleshooting, and log analysis. Seeking an entry-level Cloud/DevOps opportunity to apply my skills in automation, cloud infrastructure, continuous delivery, and system reliability.
 
 - 🔭 Currently building: hands-on projects across **AWS, Terraform, Docker, and Kubernetes**
 - 🌱 Currently deepening: GitOps with ArgoCD, advanced Kubernetes, CI/CD design
