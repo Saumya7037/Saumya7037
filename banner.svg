@@ -1,0 +1,29 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <circle cx="1060" cy="60" r="55" fill="none" stroke="#2496ED" stroke-width="3" opacity="0.5"/>
+  <circle cx="1060" cy="60" r="55" fill="none" stroke="#2496ED" stroke-width="10" stroke-dasharray="10 14" opacity="0.7"/>
+
+  <circle cx="120" cy="220" r="40" fill="none" stroke="#326CE5" stroke-width="10" stroke-dasharray="8 12" opacity="0.6"/>
+
+  <path d="M 900 220 q -20 -35 20 -45 q 5 -30 35 -32 q 25 -20 50 5 q 30 -5 30 25 q 20 10 5 35 q -10 15 -30 12 z"
+        fill="#ffffff" opacity="0.12"/>
+
+  <rect x="70" y="60" width="34" height="34" rx="4" fill="#2496ED" opacity="0.3"/>
+  <rect x="110" y="60" width="34" height="34" rx="4" fill="#2496ED" opacity="0.5"/>
+  <rect x="90" y="98" width="34" height="34" rx="4" fill="#2496ED" opacity="0.4"/>
+
+  <text x="600" y="140" font-family="Segoe UI, Verdana, sans-serif" font-size="52" font-weight="700"
+        fill="#ffffff" text-anchor="middle">SAUMYA KUMAR</text>
+  <text x="600" y="182" font-family="Segoe UI, Verdana, sans-serif" font-size="22" font-weight="400"
+        fill="#7dd3fc" text-anchor="middle">Cloud &amp; DevOps Engineer</text>
+  <text x="600" y="215" font-family="Segoe UI, Verdana, sans-serif" font-size="15" font-weight="400"
+        fill="#94a3b8" text-anchor="middle">AWS · Terraform · Docker · Kubernetes · ArgoCD · CI/CD</text>
+</svg>
