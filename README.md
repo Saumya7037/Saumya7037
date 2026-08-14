@@ -1,14 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Saumya%20Kumar&fontSize=45&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=65&animation=fadeIn)
-
-<div align="center">
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2496ED,100:326CE5&height=220&section=header&text=Saumya%20Kumar&fontSize=45&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=65&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Automating+cloud+infrastructure+%E2%98%81%EF%B8%8F;Deploying+with+Docker+%2B+Kubernetes+%E2%9A%99%EF%B8%8F;GitOps+with+ArgoCD+%F0%9F%94%84;Provisioning+AWS+with+Terraform)](https://git.io/typing-svg)
-
-</div>
-
-### Building automated, scalable, and secure cloud infrastructure — one pipeline at a time ☁️⚙️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saumyakumar7037)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saumyakumar7037@gmail.com)
@@ -19,7 +13,7 @@
 
 ### 👋 About Me
 
-Aspiring **Cloud & DevOps Engineer with a strong foundation in AWS, Terraform, Docker, Kubernetes, Linux, Git, and CI/CD**. Skilled in building automated infrastructure using Infrastructure as Code, containerizing applications, and implementing CI/CD and GitOps workflows using GitHub Actions and ArgoCD. Familiar with cloud networking, monitoring, deployment automation, and production troubleshooting. Currently working as a Technical Support Engineer, gaining exposure to production systems, incident resolution, API troubleshooting, and log analysis. Seeking an entry-level Cloud/DevOps opportunity to apply my skills in automation, cloud infrastructure, continuous delivery, and system reliability.
+I'm an aspiring **Cloud & DevOps Engineer**, currently working as a Technical Support Engineer at **FarEye Technologies**, where I troubleshoot production API integrations, run root-cause analysis on live incidents, and work directly inside Linux-based, REST API-driven enterprise systems. Outside of that, I build end-to-end DevOps pipelines and cloud infrastructure projects to sharpen the skills I use to keep production systems reliable.
 
 - 🔭 Currently building: hands-on projects across **AWS, Terraform, Docker, and Kubernetes**
 - 🌱 Currently deepening: GitOps with ArgoCD, advanced Kubernetes, CI/CD design
@@ -102,6 +96,6 @@ Reusable, modular Terraform configuration that provisions AWS infrastructure as 
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:326CE5,100:2496ED&height=100&section=footer)
 
 </div>
