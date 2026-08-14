@@ -1,6 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e40af&height=200&section=header&text=Saumya%20Kumar&fontSize=42&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=65&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=220&section=header&text=Saumya%20Kumar&fontSize=45&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descSize=18&descAlignY=65&animation=fadeIn)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Automating+cloud+infrastructure+%E2%98%81%EF%B8%8F;Deploying+with+Docker+%2B+Kubernetes+%E2%9A%99%EF%B8%8F;GitOps+with+ArgoCD+%F0%9F%94%84;Provisioning+AWS+with+Terraform)](https://git.io/typing-svg)
+
+</div>
 
 ### Building automated, scalable, and secure cloud infrastructure — one pipeline at a time ☁️⚙️
 
