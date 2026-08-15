@@ -61,74 +61,61 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
+#### 💰 [Expense Tracker — DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
 
-A full-stack expense tracker built to demonstrate a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
-
-**What it does:** Full-stack app with authentication, expense CRUD, and a dashboard with charts, backed by PostgreSQL.
+Full-stack app deployed through a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
 
 **What I built around it:**
-- Containerized the app + database with **Docker**
+- Containerized with **Docker**
 - Automated CI with **GitHub Actions** — builds, versions, and pushes images to Docker Hub on every commit
-- Implemented GitOps CD with **ArgoCD** — auto-syncs Kubernetes manifests from GitHub, with self-healing and drift detection
+- GitOps CD with **ArgoCD** — auto-syncs manifests from GitHub, self-healing, drift detection
 - Orchestrated with **Kubernetes**: Deployments, Services, ConfigMaps, Secrets, PVCs, Ingress
-- Validated the full pipeline end-to-end on **Minikube**
+- Validated end-to-end on **Minikube**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
+#### 🚀 [Inventory Management — AWS Cloud](https://github.com/Saumya7037/inventory-management)
 
-A production-style cloud deployment of a Node.js Inventory Management application using AWS, Terraform, Docker, PostgreSQL, and Amazon CloudWatch.
-
-**What it does:** Containerized inventory app deployed on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
+Production-style cloud deployment on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
 
 **What I built around it:**
-- Provisioned complete AWS infrastructure via **Terraform** — VPC, public subnet, Internet Gateway, route table, security group, EC2
-- Containerized the app and database with **Docker**, running on a custom Docker network
-- Automated EC2 setup via **User Data** script — Docker install, container startup, no manual configuration
-- Set up **CloudWatch** CPU monitoring and alarms for operational visibility
-- Secured access with SSH key pairs and least-privilege Security Group rules
+- Provisioned complete AWS infra via **Terraform** — VPC, subnet, Internet Gateway, route table, security group, EC2
+- Containerized with **Docker** on a custom Docker network
+- Automated EC2 setup via **User Data** script — zero manual configuration
+- Set up **CloudWatch** CPU monitoring and alarms
+- Secured access with SSH key pairs and least-privilege Security Groups
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="33%" valign="top">
 
-#### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
+#### ☁️ [Multi-Env AWS Infra with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
-Reusable, modular Terraform configuration that provisions AWS infrastructure as code across **Development, Staging, and Production** environments.
-
-**What it does:** Automates AWS resource provisioning so environments stay consistent and don't drift from each other.
+Reusable, modular Terraform configuration provisioning AWS infrastructure as code across Development, Staging, and Production.
 
 **What I built around it:**
-- Wrote **reusable, modular Terraform modules** shared across Dev/Staging/Prod
-- Automated provisioning of **EC2 instances, S3 buckets, and DynamoDB** tables
-- Configured **environment-specific deployments** using Terraform variables
-- Implemented **Security Groups and Key Pairs** for secure access control
-- Structured configs into modular components for scalable, maintainable infra
+- Reusable, modular **Terraform** modules shared across Dev/Staging/Prod
+- Automated provisioning of **EC2, S3, DynamoDB**
+- Environment-specific deployments via Terraform variables
+- **Security Groups and Key Pairs** for secure access control
+- Modular structure for scalable, maintainable infra
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
