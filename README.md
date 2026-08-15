@@ -59,67 +59,76 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 
 ### 📌 Featured Projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
+#### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
 
-#### 💰 [Expense Tracker — DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
+A full-stack app deployed through a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
 
-Full-stack app deployed through a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
-
-**What I built around it:**
-- Containerized with **Docker**
-- Automated CI with **GitHub Actions** — builds, versions, and pushes images to Docker Hub on every commit
+- Containerized with **Docker**, image pushed to **Docker Hub**
+- Automated CI with **GitHub Actions** — builds, versions, and pushes images on every commit
 - GitOps CD with **ArgoCD** — auto-syncs manifests from GitHub, self-healing, drift detection
 - Orchestrated with **Kubernetes**: Deployments, Services, ConfigMaps, Secrets, PVCs, Ingress
-- Validated end-to-end on **Minikube**
+- Validated end-to-end on **Minikube**, running on **Linux**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F44336?style=flat-square&logo=argo&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-<td width="33%" valign="top">
+**[→ View Repository](https://github.com/Saumya7037/Expense-tracker-project)**
 
-#### 🚀 [Inventory Management — AWS Cloud](https://github.com/Saumya7037/inventory-management)
+<br>
 
-Production-style cloud deployment on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
+#### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
 
-**What I built around it:**
-- Provisioned complete AWS infra via **Terraform** — VPC, subnet, Internet Gateway, route table, security group, EC2
-- Containerized with **Docker** on a custom Docker network
+A production-style cloud deployment on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
+
+- Provisioned complete AWS infra via **Terraform** — VPC, public subnet, Internet Gateway, route table, security group, EC2
+- Containerized with **Docker**, running on a custom Docker network
 - Automated EC2 setup via **User Data** script — zero manual configuration
 - Set up **CloudWatch** CPU monitoring and alarms
-- Secured access with SSH key pairs and least-privilege Security Groups
+- Secured access with **SSH** key pairs and least-privilege **Security Groups**
+- Version-controlled via **Git** and **GitHub**
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-<td width="33%" valign="top">
+**[→ View Repository](https://github.com/Saumya7037/inventory-management)**
 
-#### ☁️ [Multi-Env AWS Infra with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
+<br>
+
+#### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
 Reusable, modular Terraform configuration provisioning AWS infrastructure as code across Development, Staging, and Production.
 
-**What I built around it:**
 - Reusable, modular **Terraform** modules shared across Dev/Staging/Prod
-- Automated provisioning of **EC2, S3, DynamoDB**
+- Automated provisioning of **EC2, S3, and DynamoDB**
 - Environment-specific deployments via Terraform variables
 - **Security Groups and Key Pairs** for secure access control
 - Modular structure for scalable, maintainable infra
+- Version-controlled via **Git** and **GitHub**
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-</tr>
-</table>
+**[→ View Repository](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)**
 
 ---
 
