@@ -57,9 +57,11 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-#### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
+<div align="left">
+
+### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
 
 A full-stack app deployed through a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
 
@@ -82,7 +84,7 @@ A full-stack app deployed through a complete, production-style DevOps workflow �
 
 <br>
 
-#### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
+### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
 
 A production-style cloud deployment on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
 
@@ -107,7 +109,7 @@ A production-style cloud deployment on AWS EC2, with a full VPC network built fr
 
 <br>
 
-#### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
+### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
 Reusable, modular Terraform configuration provisioning AWS infrastructure as code across Development, Staging, and Production.
 
@@ -129,6 +131,8 @@ Reusable, modular Terraform configuration provisioning AWS infrastructure as cod
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **[→ View Repository](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)**
+
+</div>
 
 ---
 
