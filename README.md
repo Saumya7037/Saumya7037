@@ -57,11 +57,11 @@ Aspiring **Cloud & DevOps Engineer** with hands-on experience designing and depl
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-<div align="left">
+<table><tr><td>
 
-### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
+#### 💰 [Expense Tracker — End-to-End DevOps Pipeline](https://github.com/Saumya7037/Expense-tracker-project)
 
 A full-stack app deployed through a complete, production-style DevOps workflow — from code to a self-healing Kubernetes deployment.
 
@@ -82,9 +82,11 @@ A full-stack app deployed through a complete, production-style DevOps workflow �
 
 **[→ View Repository](https://github.com/Saumya7037/Expense-tracker-project)**
 
-<br>
+</td></tr></table>
 
-### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
+<table><tr><td>
+
+#### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
 
 A production-style cloud deployment on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
 
@@ -107,9 +109,11 @@ A production-style cloud deployment on AWS EC2, with a full VPC network built fr
 
 **[→ View Repository](https://github.com/Saumya7037/inventory-management)**
 
-<br>
+</td></tr></table>
 
-### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
+<table><tr><td>
+
+#### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
 Reusable, modular Terraform configuration provisioning AWS infrastructure as code across Development, Staging, and Production.
 
@@ -132,7 +136,7 @@ Reusable, modular Terraform configuration provisioning AWS infrastructure as cod
 
 **[→ View Repository](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)**
 
-</div>
+</td></tr></table>
 
 ---
 
