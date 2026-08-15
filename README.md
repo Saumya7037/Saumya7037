@@ -76,7 +76,12 @@ A full-stack expense tracker built to demonstrate a complete, production-style D
 - Orchestrated with **Kubernetes**: Deployments, Services, ConfigMaps, Secrets, PVCs, Ingress
 - Validated the full pipeline end-to-end on **Minikube**
 
-`Docker` `Kubernetes` `ArgoCD` `GitHub Actions` `Node.js` `PostgreSQL`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -94,12 +99,17 @@ A production-style cloud deployment of a Node.js Inventory Management applicatio
 - Set up **CloudWatch** CPU monitoring and alarms for operational visibility
 - Secured access with SSH key pairs and least-privilege Security Group rules
 
-`Terraform` `AWS EC2` `AWS VPC` `Docker` `PostgreSQL` `CloudWatch`
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
 #### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
@@ -114,10 +124,11 @@ Reusable, modular Terraform configuration that provisions AWS infrastructure as 
 - Implemented **Security Groups and Key Pairs** for secure access control
 - Structured configs into modular components for scalable, maintainable infra
 
-`Terraform` `AWS EC2` `AWS S3` `AWS DynamoDB` `VPC` `Security Groups`
-
-</td>
-<td width="50%" valign="top">
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
