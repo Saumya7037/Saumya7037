@@ -81,6 +81,26 @@ A full-stack expense tracker built to demonstrate a complete, production-style D
 </td>
 <td width="50%" valign="top">
 
+#### 🚀 [Inventory Management — AWS Cloud & DevOps Project](https://github.com/Saumya7037/inventory-management)
+
+A production-style cloud deployment of a Node.js Inventory Management application using AWS, Terraform, Docker, PostgreSQL, and Amazon CloudWatch.
+
+**What it does:** Containerized inventory app deployed on AWS EC2, with a full VPC network built from scratch and CloudWatch monitoring.
+
+**What I built around it:**
+- Provisioned complete AWS infrastructure via **Terraform** — VPC, public subnet, Internet Gateway, route table, security group, EC2
+- Containerized the app and database with **Docker**, running on a custom Docker network
+- Automated EC2 setup via **User Data** script — Docker install, container startup, no manual configuration
+- Set up **CloudWatch** CPU monitoring and alarms for operational visibility
+- Secured access with SSH key pairs and least-privilege Security Group rules
+
+`Terraform` `AWS EC2` `AWS VPC` `Docker` `PostgreSQL` `CloudWatch`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### ☁️ [Multi-Environment AWS Infrastructure with Terraform](https://github.com/Saumya7037/Terraform-Multi-Environment-AWS-Infrastructure)
 
 Reusable, modular Terraform configuration that provisions AWS infrastructure as code across **Development, Staging, and Production** environments.
@@ -95,6 +115,9 @@ Reusable, modular Terraform configuration that provisions AWS infrastructure as 
 - Structured configs into modular components for scalable, maintainable infra
 
 `Terraform` `AWS EC2` `AWS S3` `AWS DynamoDB` `VPC` `Security Groups`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
