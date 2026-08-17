@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=250&section=header&text=Saumya%20Kumar&fontSize=70&fontColor=ffffff&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=70&descAlign=50&animation=fadeIn" alt="Saumya Kumar - Aspiring Cloud & DevOps Engineer Header" width="100%"/>
+<img src="./banner.svg?v=2" alt="Saumya Kumar - Aspiring Cloud & DevOps Engineer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Provisioning+infrastructure+as+code+%E2%98%81%EF%B8%8F;Automating+deployments+with+CI%2FCD+%E2%9A%99%EF%B8%8F;Practicing+GitOps+with+ArgoCD+%F0%9F%94%84;Building+on+Azure+%26+AWS+with+Terraform)](https://git.io/typing-svg)
 
@@ -142,6 +142,6 @@ Reusable, modular Terraform configuration provisioning AWS infrastructure as cod
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" alt="footer" width="100%"/>
+<img src="./banner.svg?v=2" alt="footer" width="100%"/>
 
 </div>
